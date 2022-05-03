@@ -1,0 +1,184 @@
+CRITICAL - 2022-04-14 12:14:55 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-14 12:15:13 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-14 12:20:45 --> Class "hafidrobbiassifa" not found
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1/latihan')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1/latihan')
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-14 12:24:35 --> Class "hafidrobbiassifa" not found
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1/latihan')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1/latihan')
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-14 19:33:04 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:33:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:33:14 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:33:17 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:33:34 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:33:45 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:34:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:34:29 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:34:30 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:34:31 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:34:31 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:34:31 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:34:31 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:34:31 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 19:34:32 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pustaka-home\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pustaka-home\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-04-14 12:43:14 --> Class "CI_controller" not found
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1')
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-14 12:43:50 --> Class "CI_controller" not found
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1')
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-14 12:43:51 --> Class "CI_controller" not found
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1')
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-14 12:45:56 --> Class "CI_controller" not found
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1')
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-14 12:45:58 --> Class "CI_controller" not found
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1')
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-14 12:45:58 --> Class "CI_controller" not found
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1')
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-14 12:45:59 --> Class "CI_controller" not found
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1')
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-14 12:49:29 --> Class "CI_controller" not found
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1/index')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1/index')
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

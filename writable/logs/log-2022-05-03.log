@@ -1,0 +1,16 @@
+CRITICAL - 2022-05-03 00:21:07 --> Class "CI_controller" not found
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1')
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-03 00:24:46 --> Class "CI_controller" not found
+#0 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\pustaka-home\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('contoh1')
+#2 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('contoh1')
+#3 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\pustaka-home\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pustaka-home\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
